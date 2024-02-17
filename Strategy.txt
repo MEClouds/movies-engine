@@ -1,0 +1,14 @@
+initiate small project that can be useful in future [ Movies-Downloader ] 
+to use moviedb api with @movie-provider
+[] make simple ui using shadcn-ui 
+ - search in moviesDB and show result 
+ - show movies Data and 
+components 
+- Search
+- Discover
+- movieCard
+- MovieDetailes 
+- Trailer Video Player 
+API
+- search in db
+- extract movies url / subtitles 
